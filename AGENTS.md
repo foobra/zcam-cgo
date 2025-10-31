@@ -21,3 +21,5 @@ Keep this managed block so 'openspec update' can refresh the instructions.
 原始需求都在_specs目录下的md文档中. md文档中的 # prd 章节代表业务需求, # tech代表技术需求
 
 openspec 的提案, 名称前面都需要添加日期, 例如 241031等. 形成 240505-xxxx 这种
+
+实现代码的时候, 一定要最小化,最简化,不要引多余的代码和依赖,一切从简,只完成spec要求的能力
