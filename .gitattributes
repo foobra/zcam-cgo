@@ -1,0 +1,7 @@
+ssp/bin/libssp.a filter=lfs diff=lfs merge=lfs -text
+ssp/bin/libssp.dll filter=lfs diff=lfs merge=lfs -text
+ssp/debug/bin/libsspd.a filter=lfs diff=lfs merge=lfs -text
+ssp/debug/bin/libsspd.def filter=lfs diff=lfs merge=lfs -text
+ssp/debug/bin/libsspd.dll filter=lfs diff=lfs merge=lfs -text
+ssp/debug/lib/libsspd.lib filter=lfs diff=lfs merge=lfs -text
+ssp/lib/libssp.lib filter=lfs diff=lfs merge=lfs -text
